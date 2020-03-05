@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-react-messager/static/css/main.5eb1d410.chunk.css",
-    "main.js": "/my-react-messager/static/js/main.391c0273.chunk.js",
-    "main.js.map": "/my-react-messager/static/js/main.391c0273.chunk.js.map",
+    "main.css": "/my-react-messager/static/css/main.ab65992e.chunk.css",
+    "main.js": "/my-react-messager/static/js/main.e8b03bd5.chunk.js",
+    "main.js.map": "/my-react-messager/static/js/main.e8b03bd5.chunk.js.map",
     "runtime-main.js": "/my-react-messager/static/js/runtime-main.16bc3e7a.js",
     "runtime-main.js.map": "/my-react-messager/static/js/runtime-main.16bc3e7a.js.map",
-    "static/css/2.e88a9d45.chunk.css": "/my-react-messager/static/css/2.e88a9d45.chunk.css",
-    "static/js/2.0ebeb99d.chunk.js": "/my-react-messager/static/js/2.0ebeb99d.chunk.js",
-    "static/js/2.0ebeb99d.chunk.js.map": "/my-react-messager/static/js/2.0ebeb99d.chunk.js.map",
+    "static/css/2.9c4b0ec0.chunk.css": "/my-react-messager/static/css/2.9c4b0ec0.chunk.css",
+    "static/js/2.7bfe2d62.chunk.js": "/my-react-messager/static/js/2.7bfe2d62.chunk.js",
+    "static/js/2.7bfe2d62.chunk.js.map": "/my-react-messager/static/js/2.7bfe2d62.chunk.js.map",
     "index.html": "/my-react-messager/index.html",
-    "precache-manifest.7ceac2de1df8b1d0dfb6653bd78bd4cf.js": "/my-react-messager/precache-manifest.7ceac2de1df8b1d0dfb6653bd78bd4cf.js",
+    "precache-manifest.2a56ffd2df772276ed96665448f4854f.js": "/my-react-messager/precache-manifest.2a56ffd2df772276ed96665448f4854f.js",
     "service-worker.js": "/my-react-messager/service-worker.js",
-    "static/css/2.e88a9d45.chunk.css.map": "/my-react-messager/static/css/2.e88a9d45.chunk.css.map",
-    "static/css/main.5eb1d410.chunk.css.map": "/my-react-messager/static/css/main.5eb1d410.chunk.css.map",
-    "static/js/2.0ebeb99d.chunk.js.LICENSE": "/my-react-messager/static/js/2.0ebeb99d.chunk.js.LICENSE",
+    "static/css/2.9c4b0ec0.chunk.css.map": "/my-react-messager/static/css/2.9c4b0ec0.chunk.css.map",
+    "static/css/main.ab65992e.chunk.css.map": "/my-react-messager/static/css/main.ab65992e.chunk.css.map",
+    "static/js/2.7bfe2d62.chunk.js.LICENSE": "/my-react-messager/static/js/2.7bfe2d62.chunk.js.LICENSE",
     "static/media/Messages.scss": "/my-react-messager/static/media/fon9.4a98f35f.jpg",
     "static/media/noreaded.svg": "/my-react-messager/static/media/noreaded.3c841bf6.svg",
     "static/media/pause.svg": "/my-react-messager/static/media/pause.a61933e8.svg",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.16bc3e7a.js",
-    "static/css/2.e88a9d45.chunk.css",
-    "static/js/2.0ebeb99d.chunk.js",
-    "static/css/main.5eb1d410.chunk.css",
-    "static/js/main.391c0273.chunk.js"
+    "static/css/2.9c4b0ec0.chunk.css",
+    "static/js/2.7bfe2d62.chunk.js",
+    "static/css/main.ab65992e.chunk.css",
+    "static/js/main.e8b03bd5.chunk.js"
   ]
 }
