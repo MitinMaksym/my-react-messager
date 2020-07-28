@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32f2c9d004a1250d4228030a49b6ef41",
+    "revision": "0fddec79f53a36e3a6a1c35edac4e51b",
     "url": "/my-react-messager/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-messager/static/css/2.e88a9d45.chunk.css"
   },
   {
-    "revision": "e211066526f40e91edaf",
+    "revision": "8cdd277ef7323d0e33ee",
     "url": "/my-react-messager/static/css/main.d132ca94.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-react-messager/static/js/2.e9777b65.chunk.js.LICENSE"
   },
   {
-    "revision": "e211066526f40e91edaf",
-    "url": "/my-react-messager/static/js/main.2e6eb543.chunk.js"
+    "revision": "8cdd277ef7323d0e33ee",
+    "url": "/my-react-messager/static/js/main.f506bffd.chunk.js"
   },
   {
     "revision": "fd9ac82be7a0e345b74a",
