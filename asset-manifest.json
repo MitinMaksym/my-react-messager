@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-react-messager/static/css/main.d132ca94.chunk.css",
-    "main.js": "/my-react-messager/static/js/main.f506bffd.chunk.js",
-    "main.js.map": "/my-react-messager/static/js/main.f506bffd.chunk.js.map",
+    "main.css": "/my-react-messager/static/css/main.142cc935.chunk.css",
+    "main.js": "/my-react-messager/static/js/main.74531c16.chunk.js",
+    "main.js.map": "/my-react-messager/static/js/main.74531c16.chunk.js.map",
     "runtime-main.js": "/my-react-messager/static/js/runtime-main.16bc3e7a.js",
     "runtime-main.js.map": "/my-react-messager/static/js/runtime-main.16bc3e7a.js.map",
     "static/css/2.e88a9d45.chunk.css": "/my-react-messager/static/css/2.e88a9d45.chunk.css",
-    "static/js/2.e9777b65.chunk.js": "/my-react-messager/static/js/2.e9777b65.chunk.js",
-    "static/js/2.e9777b65.chunk.js.map": "/my-react-messager/static/js/2.e9777b65.chunk.js.map",
+    "static/js/2.a1336c1a.chunk.js": "/my-react-messager/static/js/2.a1336c1a.chunk.js",
+    "static/js/2.a1336c1a.chunk.js.map": "/my-react-messager/static/js/2.a1336c1a.chunk.js.map",
     "index.html": "/my-react-messager/index.html",
-    "precache-manifest.16aa04c65748e5a6d7e314658ee917e6.js": "/my-react-messager/precache-manifest.16aa04c65748e5a6d7e314658ee917e6.js",
+    "precache-manifest.4282a9cfe515fb5b5967269f506ee494.js": "/my-react-messager/precache-manifest.4282a9cfe515fb5b5967269f506ee494.js",
     "service-worker.js": "/my-react-messager/service-worker.js",
     "static/css/2.e88a9d45.chunk.css.map": "/my-react-messager/static/css/2.e88a9d45.chunk.css.map",
-    "static/css/main.d132ca94.chunk.css.map": "/my-react-messager/static/css/main.d132ca94.chunk.css.map",
-    "static/js/2.e9777b65.chunk.js.LICENSE": "/my-react-messager/static/js/2.e9777b65.chunk.js.LICENSE",
+    "static/css/main.142cc935.chunk.css.map": "/my-react-messager/static/css/main.142cc935.chunk.css.map",
+    "static/js/2.a1336c1a.chunk.js.LICENSE": "/my-react-messager/static/js/2.a1336c1a.chunk.js.LICENSE",
     "static/media/Messages.scss": "/my-react-messager/static/media/fon9.4a98f35f.jpg",
     "static/media/noreaded.svg": "/my-react-messager/static/media/noreaded.1456f013.svg",
     "static/media/pause.svg": "/my-react-messager/static/media/pause.a61933e8.svg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.16bc3e7a.js",
     "static/css/2.e88a9d45.chunk.css",
-    "static/js/2.e9777b65.chunk.js",
-    "static/css/main.d132ca94.chunk.css",
-    "static/js/main.f506bffd.chunk.js"
+    "static/js/2.a1336c1a.chunk.js",
+    "static/css/main.142cc935.chunk.css",
+    "static/js/main.74531c16.chunk.js"
   ]
 }
